@@ -7,9 +7,9 @@ Este proyecto es un carrito de compras, responsivo, donde por una parte habrá u
 https://cart-mg.netlify.app/
 
 # Puede también clonar el repositorio de manera local de la siguiente manera: 
-1.crea un directorio de manera local. 
-2.abra el directorio en una IDE como Visual Studio Code (recomendado) o un editor como Atom, o Sublime text. 
-3.ejecute el siguiente siguiente comando en la terminal $git clone https://github.com/manugarcal/shopping-cart.git 
-4.agregamos live server como extensión (visual Studio Code) 
-5.desde el visual Studio, hacemos click derecho en el archivo index.html y seleccionamos "open with live server".
+1.-crea un directorio de manera local. 
+2.-abra el directorio en una IDE como Visual Studio Code (recomendado) o un editor como Atom, o Sublime text. 
+3.-ejecute el siguiente siguiente comando en la terminal $git clone https://github.com/manugarcal/shopping-cart.git 
+4.-agregamos live server como extensión (visual Studio Code) 
+5.-desde el visual Studio, hacemos click derecho en el archivo index.html y seleccionamos "open with live server".
 
